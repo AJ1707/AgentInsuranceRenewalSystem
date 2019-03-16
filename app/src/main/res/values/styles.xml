@@ -1,0 +1,19 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/statusbarcolor</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    <style name="toolbar" parent="TextAppearance.AppCompat">
+        <item name="android:fontFamily">serif</item>
+        <item name="android:textSize">18sp</item>
+    </style>
+
+    <style name="AppTheme.ActionBar" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="actionMenuTextColor">@color/white</item>
+
+    </style>
+</resources>

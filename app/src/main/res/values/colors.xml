@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="appcolor">#a1c651</color>
+    <color name="statusbarcolor">#8dba00</color>
+    <color name="green">#14ff80</color>
+    <color name="button">#8dba00</color>
+    <color name="white" tools:ignore="MissingDefaultResource">#fff</color>
+    <color name="black" tools:ignore="MissingDefaultResource">#000</color>
+    <color name="blue">#0000ff</color>
+</resources>

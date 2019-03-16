@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Insurance Renewal System</string>
+    <string name="emailid">Email id</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="policynumber">Policy number</string>
+    <string name="search">Search</string>
+
+    <string name="DTT_EXPIRY_DATE">DTT_EXPIRY_DATE</string>
+    <string name="DTT_INCEPTION_DATE">DTT_INCEPTION_DATE</string>
+    <string name="DTT_ISSUE_DATE">DTT_ISSUE_DATE</string>
+    <string name="EMAIL_ID">EMAIL_ID</string>
+    <string name="MOB_NUM">MOB_NUM</string>
+    <string name="NUM_EX_COVERAGE_AMT">NUM_EX_COVERAGE_AMT</string>
+    <string name="NUM_EX_COVERAGE_PREMIUM">NUM_EX_COVERAGE_PREMIUM</string>
+    <string name="NUM_EX_COVERAGE_TOT">NUM_EX_COVERAGE_TOT</string>
+    <string name="NUM_MANUFACTURE_YEAR">NUM_MANUFACTURE_YEAR</string>
+    <string name="NUM_MODEL_ID">NUM_MODEL_ID</string>
+    <string name="NUM_SERVICE_TAX_AMOUNT">NUM_SERVICE_TAX_AMOUNT</string>
+    <string name="NUM_SERVICE_TAX_ID">NUM_SERVICE_TAX_ID</string>
+    <string name="NUM_SERVICE_TAX_PERCENT">NUM_SERVICE_TAX_PERCENT</string>
+    <string name="VCH_CHASSIS_NO">VCH_CHASSIS_NO</string>
+    <string name="VCH_ENGINE_NO">VCH_ENGINE_NO</string>
+    <string name="VCH_INSURED_NAME">VCH_INSURED_NAME</string>
+    <string name="VCH_VEHICLE_NO">VCH_VEHICLE_NO</string>
+    <string name="VCH_POLICY_NO">VCH_POLICY_NO</string>
+    <string name="VCH_INSURED_AMOUNT">VCH_INSURED_AMOUNT</string>
+
+    <string name="policyname">Policy Name</string>
+    <string name="policynumberdetails">Policy Number Details</string>
+    <string name="gst">GST</string>
+    <string name="totalamountwithgst">Total amount with GST</string>
+
+</resources>

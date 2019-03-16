@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "516489022106",
+    "firebase_url": "https://insurancerenewalsystem.firebaseio.com",
+    "project_id": "insurancerenewalsystem",
+    "storage_bucket": "insurancerenewalsystem.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:516489022106:android:b7b83d544aa6e131",
+        "android_client_info": {
+          "package_name": "com.example.insurancerenewalsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "516489022106-406n4ok3bhjq8gogd9u24hkbhdpeevr9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.insurancerenewalsystem",
+            "certificate_hash": "c153735a0b93fcdb98e1c28a819d82c782c45920"
+          }
+        },
+        {
+          "client_id": "516489022106-hfnoee1k9pjed1tl73d19ahgnsfb2svg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEdjsvUWn33u576KPl80ha0YjKhO9lNkA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "516489022106-hfnoee1k9pjed1tl73d19ahgnsfb2svg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
